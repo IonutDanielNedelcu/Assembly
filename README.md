@@ -1,4 +1,4 @@
-# Assembly
+# x86
 Computing Systems Architecture (Arhitectura Sistemelor de Calcul)
 
 NOTE: the comments and the original project requirements are written in Romanian due to the course's demand
